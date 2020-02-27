@@ -1,0 +1,34 @@
+---
+title: Dave Powers
+description: Learn more about me (Dave Powers) and the web projects and writing I've been working on.
+---
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li><h1><a href="/">Dave Powers</a></h1></li>
+        <li><a href="/writing">Writing</a></li>
+        <li><a href="/uses">Uses</a></li>
+        <li><a href="/now">Now</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <script src="js/main.js"></script>
+  </body>
+
+</html>
