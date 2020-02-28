@@ -1,0 +1,12 @@
+---
+layout: default.njk
+---
+<h2>Writing</h2>
+{% for publication in publications %}
+  <h3>{{ publication.name }}</h3>
+  {% for piece in publication.pieces %}
+    <ul>
+      <li><a href="{{ piece.url }}">{{ piece.title }}</a>
+    </ul>
+  {% endfor %}
+{% endfor %}

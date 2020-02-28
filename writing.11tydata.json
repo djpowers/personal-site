@@ -1,0 +1,51 @@
+{
+  "publications": [
+    {
+      "name": "McSweeney's",
+      "pieces": [
+        {
+          "title": "I Hope You Enjoy Your Airbnb Stay At My Home, a Place I Have Never Resided Nor Visited",
+          "url": "https://www.mcsweeneys.net/articles/i-hope-you-enjoy-your-airbnb-stay-at-my-home-a-place-i-have-never-resided-nor-visited"
+        },
+        {
+          "title": "Sure, Our Beer Is Almost Impossible to Track Down, But That Only Makes You Want It More",
+          "url": "https://www.mcsweeneys.net/articles/sure-our-beer-is-almost-impossible-to-track-down-but-that-only-makes-you-want-it-more"
+        },
+        {
+          "title": "Yoga for Masochists",
+          "url": "https://www.mcsweeneys.net/articles/yoga-for-masochists"
+        },
+        {
+          "title": "We Have to Accept That the New England Patriots Are Super Bowl Champions",
+          "url": "https://www.mcsweeneys.net/articles/we-have-to-accept-that-the-new-england-patriots-are-super-bowl-champions"
+        }
+      ]
+    },
+    {
+      "name": "Points in Case",
+      "pieces": [
+        {
+          "title": "List: 15 Fascinating Facts about Orthodontists",
+          "url": "https://www.pointsincase.com/lists/15-fascinating-facts-about-orthodontists"
+        },
+        {
+          "title": "Announcing Our Official Decision Regarding Whether or Not to Have Children",
+          "url": "https://www.pointsincase.com/articles/announcing-our-official-decision-regarding-whether-or-not-to-have-children"
+        },
+        {
+          "title": "I Should Probably Go Ahead and Buy Two Tickets For This Show",
+          "url": "https://www.pointsincase.com/articles/i-should-probably-just-buy-two-tickets-for-this-show"
+        }
+      ]
+    },
+    {
+      "name": "Slackjaw",
+      "pieces": [
+        {
+          "title": "I’m Saving Toward Financial Independence And All It Took Was Sacrificing All Joy And Minor Luxuries From My Life",
+          "url": "https://medium.com/slackjaw/im-saving-toward-financial-independence-and-all-it-took-was-sacrificing-all-joy-and-minor-luxuries-e87f353cec04"
+        }
+      ]
+    }
+  ]
+}
