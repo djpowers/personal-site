@@ -1,5 +1,7 @@
 ---
 layout: default.njk
+title: Now | Dave Powers
+description: A brief summary of what Dave Powers is up to right now
 ---
 ## Now
 
