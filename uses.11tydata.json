@@ -1,0 +1,161 @@
+{
+  "uses": [
+    {
+      "category": "Development",
+      "items": [
+        {
+          "name": "Vim",
+          "url": "https://www.vim.org/",
+          "description": "As a keyboard junkie, Vim suits my needs very well. After dipping my toes in with \"Vim-Mode\" in other editors, I finally made the jump years ago and haven't looked back."
+        },
+        {
+          "name": "iTerm2",
+          "url": "https://iterm2.com/",
+          "description": "My preferred terminal emulator."
+        },
+        {
+          "name": "Cobalt2 theme",
+          "url": "https://github.com/wesbos/Cobalt2-iterm",
+          "description": "My favorite color scheme. 💙💛"
+        },
+        {
+          "name": "JetBrains Mono font",
+          "url": "https://www.jetbrains.com/lp/mono/",
+          "description": "Recent addition, but into it so far. Bonus points for being free and open source."
+        },
+        {
+          "name": "my dotfiles",
+          "url": "https://github.com/djpowers/dotfiles",
+          "description": "I try to keep anything else configurable in my dotfiles."
+        }
+      ]
+    },
+    {
+      "category": "Writing",
+      "items": [
+        {
+          "name": "Ulysses",
+          "url": "https://ulysses.app/",
+          "description": "I do all of my prose writing in Ulysses. I have groups set up to track progress of different pieces. Writing in Markdown is a must for me, and its comment feature is a game-changer for me. That along with writing goals and reliable sync between devices make it an ideal solution for writing."
+        },
+        {
+          "name": "Byword",
+          "url": "https://bywordapp.com/",
+          "description": "For quick one-off documents, I may reach for Byword. Markdown support included."
+        }
+      ]
+    },    {
+      "category": "Productivity",
+      "items": [
+        {
+          "name": "Firefox",
+          "url": "https://www.mozilla.org/en-US/firefox/browsers/",
+          "description": ""
+        },        {
+          "name": "Things",
+          "url": "https://culturedcode.com/things/",
+          "description": ""
+        },
+        {
+          "name": "Alfred",
+          "url": "https://www.alfredapp.com/",
+          "description": ""
+        },
+        {
+          "name": "1Password",
+          "url": "https://1password.com/",
+          "description": ""
+        },
+        {
+          "name": "Mailplane",
+          "url": "https://mailplaneapp.com/",
+          "description": ""
+        },
+        {
+          "name": "Fantastical",
+          "url": "https://flexibits.com/fantastical",
+          "description": ""
+        },
+        {
+          "name": "Backblaze",
+          "url": "https://secure.backblaze.com/r/00grp4",
+          "description": "(referral link)"
+        },
+        {
+          "name": "Dash",
+          "url": "https://kapeli.com/dash",
+          "description": ""
+        },
+        {
+          "name": "SelfControl",
+          "url": "https://selfcontrolapp.com/",
+          "description": ""
+        }
+      ]
+    },    {
+      "category": "Browser Extensions",
+      "items": [
+        {
+          "name": "Vimium",
+          "url": "https://vimium.github.io/",
+          "description": ""
+        },
+        {
+          "name": "1Password",
+          "url": "https://support.1password.com/1password-extension/",
+          "description": ""
+        },
+        {
+          "name": "uBlock Origin",
+          "url": "https://getublock.com/",
+          "description": ""
+        },
+        {
+          "name": "Privacy Badger",
+          "url": "https://www.eff.org/privacybadger",
+          "description": ""
+        },
+        {
+          "name": "HTTPS Everywhere",
+          "url": "https://www.eff.org/https-everywhere",
+          "description": ""
+        },
+        {
+          "name": "Decentraleyes",
+          "url": "https://decentraleyes.org/",
+          "description": ""
+        },
+        {
+          "name": "Wappalyzer",
+          "url": "https://www.wappalyzer.com/download",
+          "description": ""
+        },
+        {
+          "name": "Terms of Service; Didn’t Read",
+          "url": "https://tosdr.org/downloads.html",
+          "description": ""
+        },
+        {
+          "name": "Facebook Container",
+          "url": "https://blog.mozilla.org/firefox/facebook-container-extension/",
+          "description": ""
+        },
+        {
+          "name": "FB Purity",
+          "url": "https://www.fbpurity.com/",
+          "description": ""
+        },
+        {
+          "name": "Old Reddit Redirect",
+          "url": "https://github.com/tom-james-watson/old-reddit-redirect",
+          "description": ""
+        },
+        {
+          "name": "Video Speed Controller",
+          "url": "https://github.com/igrigorik/videospeed",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
