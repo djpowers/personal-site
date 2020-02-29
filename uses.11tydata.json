@@ -50,110 +50,112 @@
         {
           "name": "Firefox",
           "url": "https://www.mozilla.org/en-US/firefox/browsers/",
-          "description": ""
-        },        {
+          "description": "Switch back to Firefox after a decade-long hiatus, and happy to see it's still on par with other major browsers. The built-in privacy features (combined with Mozilla's commitment to an open web) definitely make it worth giving Firefox another look."
+        },
+        {
           "name": "Things",
           "url": "https://culturedcode.com/things/",
-          "description": ""
+          "description": "The best to-do app I've used, hands down. Beautiful design and tons of attention has been given to each feature."
         },
         {
           "name": "Alfred",
           "url": "https://www.alfredapp.com/",
-          "description": ""
+          "description": "I use Alfred for every web search, as a quick dictionary, and to control Spotify. Super versatile and extensible."
         },
         {
           "name": "1Password",
           "url": "https://1password.com/",
-          "description": ""
+          "description": "Been using this password manager forever. If not this one, please find one you like."
         },
         {
           "name": "Mailplane",
           "url": "https://mailplaneapp.com/",
-          "description": ""
+          "description": "A native application wrapper around the Gmail interface."
         },
         {
           "name": "Fantastical",
           "url": "https://flexibits.com/fantastical",
-          "description": ""
+          "description": "An excellent calendar applciation."
         },
         {
           "name": "Backblaze",
           "url": "https://secure.backblaze.com/r/00grp4",
-          "description": "(referral link)"
+          "description": "Off-site backup is a necessity, and Backblaze has saved me a number of times. (Note: referral link)"
         },
         {
           "name": "Dash",
           "url": "https://kapeli.com/dash",
-          "description": ""
+          "description": "A handy resource to quickly look up development documenation."
         },
         {
           "name": "SelfControl",
           "url": "https://selfcontrolapp.com/",
-          "description": ""
+          "description": "Easily block the websites that are ingrained in your muscle memory."
         }
       ]
-    },    {
+    },
+    {
       "category": "Browser Extensions",
       "items": [
         {
           "name": "Vimium",
           "url": "https://vimium.github.io/",
-          "description": ""
+          "description": "Keeps my hands on the keyboard while in my browser. Strong recommend if you already use Vim, or even if you don't."
         },
         {
           "name": "1Password",
           "url": "https://support.1password.com/1password-extension/",
-          "description": ""
+          "description": "Easily autofill your logins in the browser."
         },
         {
           "name": "uBlock Origin",
           "url": "https://getublock.com/",
-          "description": ""
+          "description": "Best ad blocker in the biz."
         },
         {
           "name": "Privacy Badger",
           "url": "https://www.eff.org/privacybadger",
-          "description": ""
+          "description": "Complements a privacy blocklist well by identifying trackers as you browse and denying them."
         },
         {
           "name": "HTTPS Everywhere",
           "url": "https://www.eff.org/https-everywhere",
-          "description": ""
+          "description": "Most sites are using HTTPS now, but force it if needed."
         },
         {
           "name": "Decentraleyes",
           "url": "https://decentraleyes.org/",
-          "description": ""
+          "description": "Will improve performance by caching CDN data, and preserving privacy whilst doing so. A win-win."
         },
         {
           "name": "Wappalyzer",
           "url": "https://www.wappalyzer.com/download",
-          "description": ""
+          "description": "Curiosity gets the best of me while browsing, and this lets me keep my finger on the pulse of what technologies other people are using to build web applications."
         },
         {
           "name": "Terms of Service; Didn’t Read",
           "url": "https://tosdr.org/downloads.html",
-          "description": ""
+          "description": "You know you don't read privacy policies, so it's nice to get alerted if there are any red flags as you browse."
         },
         {
           "name": "Facebook Container",
           "url": "https://blog.mozilla.org/firefox/facebook-container-extension/",
-          "description": ""
+          "description": "A Firefox exclusive, which I could argue is reason enough to switch. Isolates your browsing so that Facebook can't creepily follow you around the net."
         },
         {
           "name": "FB Purity",
           "url": "https://www.fbpurity.com/",
-          "description": ""
+          "description": "Interface is ugly as sin, but allows you to block the annoying parts of Facebook."
         },
         {
           "name": "Old Reddit Redirect",
           "url": "https://github.com/tom-james-watson/old-reddit-redirect",
-          "description": ""
+          "description": "For the rare times I find myself on Reddit, this makes the interface tolerable."
         },
         {
           "name": "Video Speed Controller",
           "url": "https://github.com/igrigorik/videospeed",
-          "description": ""
+          "description": "Convenient video controls that work on any site."
         }
       ]
     }
