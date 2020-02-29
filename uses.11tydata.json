@@ -44,7 +44,33 @@
           "description": "For quick one-off documents, I may reach for Byword. Markdown support included."
         }
       ]
-    },    {
+    },
+    {
+      "category": "Hosting",
+      "items": [
+        {
+          "name": "Digital Ocean",
+          "url": "https://m.do.co/c/53fdcc742fa0",
+          "description": "New to the platform, but their Droplet system makes getting started much easier (or just possible in the first place). (Note: referral link)"
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com/",
+          "description": "For static sites (like this one), Netlify is great. Rock solid deployment process, and they do a lot for the community as well."
+        },
+        {
+          "name": "Heroku",
+          "url": "https://www.heroku.com/",
+          "description": "For a project with a back-end where I don't want to worry about server infrastructure Heroku is perfect."
+        },
+        {
+          "name": "Namecheap",
+          "url": "https://www.namecheap.com/",
+          "description": "When buying domain names, I've gone with Namecheap. Some of the cheapest prices around, but from a repuatable company."
+        }
+      ]
+    },
+    {
       "category": "Productivity",
       "items": [
         {
