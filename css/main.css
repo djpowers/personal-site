@@ -1,0 +1,41 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+  color: #3d4852;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1rem;
+  background-color: midnightblue;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+@media (max-width: 430px) {
+  nav ul {
+    margin-top: 1rem;
+  }
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a {
+  padding: 10px 15px;
+}
+
+main {
+  max-width: 28rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
