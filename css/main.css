@@ -34,8 +34,16 @@ nav ul li a {
   padding: 10px 15px;
 }
 
+nav ul li a:hover {
+  background-color: navy;
+}
+
 main {
   max-width: 28rem;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+main a {
+  color: midnightblue;
 }

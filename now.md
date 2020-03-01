@@ -27,4 +27,4 @@ Have been on a non-fiction kick for a while. Working through [Modern Web Develop
 
 ---
 
-Updated {{ page.date }}
+*Updated {{ page.date }}*
