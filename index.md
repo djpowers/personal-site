@@ -3,6 +3,8 @@ layout: default.njk
 ---
 ## Who am I?!
 
+![Dave Powers wearing a t-shirt](https://avatars1.githubusercontent.com/u/4978418)
+
 I'm [@dave_powers](https://twitter.com/dave_powers), a web developer, humor writer, and interrobang advocate. Check out what I'm up to [now](now).
 
 I like simple, modern, websites. Hopefully this one meets those criteria. If you're curious, here's what I like to [use](uses) to make things.

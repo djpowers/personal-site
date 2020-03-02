@@ -8,7 +8,7 @@ nav {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding: 1rem;
+  padding: 1rem 0;
   background-color: midnightblue;
 }
 
@@ -28,9 +28,6 @@ nav ul {
 nav a {
   color: #fff;
   text-decoration: none;
-}
-
-nav ul li a {
   padding: 10px 15px;
 }
 
@@ -46,4 +43,8 @@ main {
 
 main a {
   color: midnightblue;
+}
+
+img {
+  width: 100%;
 }
