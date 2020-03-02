@@ -3,9 +3,9 @@ layout: default.njk
 title: Writing | Dave Powers
 description: Links to external sites where Dave Powers has been published
 ---
-<h2>Writing</h2>
+<h1>Writing</h1>
 {% for publication in publications %}
-  <h3>{{ publication.name }}</h3>
+  <h2>{{ publication.name }}</h2>
   {% for piece in publication.pieces %}
     <ul>
       <li><a href="{{ piece.url }}">{{ piece.title }}</a>

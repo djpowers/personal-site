@@ -3,12 +3,12 @@ layout: default.njk
 title: Uses | Dave Powers
 description: Links to various tools that Dave Powers uses regularly
 ---
-<h2>Uses</h2>
+<h1>Uses</h1>
 
 <p>Mostly for my own documentation, but here's a list of tools I use that make my life easier. Feel free to borrow any ideas.</p>
 
 {% for use in uses %}
-  <h3>{{ use.category }}</h3>
+  <h2>{{ use.category }}</h2>
   {% for item in use.items %}
     <ul>
       <li>
