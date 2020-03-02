@@ -1,0 +1,19 @@
+---
+layout: default.njk
+title: Contact | Dave Powers
+description: Send a message to Dave Powers
+---
+<h2>Send Dave a message</h2>
+<form netlify>
+  <label>Name:
+    <input type="text" name="name" required>
+  </label>
+
+  <label>Email:
+    <input type="email" name="email" required>
+  </label>
+
+  <textarea name="message" cols="30" rows="10" placeholder="Hello Dave, I'd like to give you a piece of my mind..." required></textarea>
+
+  <button type="submit">Send</button>
+</form>
