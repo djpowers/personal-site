@@ -10,6 +10,9 @@ description: Learn more about me (Dave Powers) and the web projects and writing 
     <title>{{ title }}</title>
     <meta name="description" content="{{ description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if noindex %}
+      <meta name="robots" content="noindex">
+    {% endif %}
 
     <link rel="stylesheet" href="/css/main.css">
   </head>

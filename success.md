@@ -2,6 +2,7 @@
 layout: default.njk
 title: Success | Dave Powers
 description: Thank you for sending a message
+noindex: true
 ---
 # Thank you!
 
