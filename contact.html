@@ -3,6 +3,7 @@ layout: default.njk
 title: Contact | Dave Powers
 description: Send a message to Dave Powers
 ---
+
 <h1>Send Dave a message</h1>
 <form name="contact" action="/success" netlify>
   <label>Name:
@@ -13,7 +14,13 @@ description: Send a message to Dave Powers
     <input type="email" name="email" required>
   </label>
 
-  <textarea name="message" cols="30" rows="10" placeholder="Hello Dave, I'd like to give you a piece of my mind..." required></textarea>
+  <textarea
+    name="message"
+    cols="30"
+    rows="10"
+    placeholder="Hello Dave, I'd like to give you a piece of my mind..."
+    required
+  ></textarea>
 
   <button type="submit">Send</button>
 </form>

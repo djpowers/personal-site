@@ -3,6 +3,7 @@ layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
 ---
+
 # Now
 
 (This is a [now page](https://nownownow.com/about). Feel free to [make your own](https://nownownow.com/about)).
@@ -27,4 +28,4 @@ Have been on a non-fiction kick for a while. Working through [Modern Web Develop
 
 ---
 
-*Updated {{ page.date }}*
+_Updated {{ page.date }}_
