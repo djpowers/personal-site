@@ -1,13 +1,13 @@
 {
   "name": "personal-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "The personal site of Dave Powers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dave Powers",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
