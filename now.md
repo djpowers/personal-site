@@ -2,6 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
+templateEngineOverride: njk,md
 ---
 
 # Now
@@ -28,4 +29,4 @@ Have been on a non-fiction kick for a while. Working through [Modern Web Develop
 
 ---
 
-_Updated {{ page.date }}_
+_Updated {{ page.date.toDateString() }}_
