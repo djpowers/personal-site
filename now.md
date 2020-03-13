@@ -2,6 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
+date: 2020-03-13T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -11,7 +12,9 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-I'm currently focused on building out this site. I initially wanted to build this one out from scratch, but realized that is not really practical for modern front-end web development. The [Jamstack](https://jamstack.org/) and [static site generators](https://www.staticgen.com/) have been intriguing to me of late, so I decided to leverage [Eleventy 🎈🐀](https://www.11ty.dev/) for basic templating and build steps. It doesn't add any code to the final output that I didn't write, which was a goal of mine.
+My main priority while being hunkered down at home is to [flatten the curve](https://www.flattenthecurve.com/).
+
+Other than that, I'm focused on building out this site. I initially wanted to build this one out from scratch, but realized that is not really practical for modern front-end web development. The [Jamstack](https://jamstack.org/) and [static site generators](https://www.staticgen.com/) have been intriguing to me of late, so I decided to leverage [Eleventy 🎈🐀](https://www.11ty.dev/) for basic templating and build steps. It doesn't add any code to the final output that I didn't write, which was a goal of mine.
 
 Also trying to help one friend start a blog and another build out a podcast site. Will share when there's something to share. 📰 🎧
 
