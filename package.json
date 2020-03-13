@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "author": "Dave Powers",
+  "repository": "github:djpowers/personal-site",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
