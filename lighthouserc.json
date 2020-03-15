@@ -1,0 +1,12 @@
+{
+  "ci": {
+    "collect": {
+      "url": ["http://localhost"],
+      "numberOfRuns": 1,
+      "staticDistDir": "_site/"
+    },
+    "assert": {
+      "preset": "lighthouse:no-pwa"
+    }
+  }
+}
