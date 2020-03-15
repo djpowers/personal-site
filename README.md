@@ -10,8 +10,10 @@ The personal site of Dave Powers. Built using [Eleventy](https://www.11ty.dev/).
 
 ## Lighthouse
 
-`npx @11ty/eleventy`
+`npm run lh` will execute the following:
 
-`npx lhci autorun`
-
-`npx lhci open --url`
+```
+npx @11ty/eleventy  # build the site
+npx lhci autorun    # run Lighthouse
+npx lhci open --url # open report
+```
