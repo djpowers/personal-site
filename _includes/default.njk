@@ -15,7 +15,14 @@ description: Learn more about me (Dave Powers) and the web projects and writing 
       <meta name="robots" content="noindex">
     {% endif %}
 
-    <link rel="stylesheet" href="/css/main.css">
+    {# capture the CSS content as a Nunjucks variable #}
+    {% set css %}
+      {% include "main.css" %}
+    {% endset %}
+    {# feed it through our cssmin filter to minify #}
+    <style>
+      {{ css | cssmin | safe }}
+    </style>
   </head>
 
   <body>

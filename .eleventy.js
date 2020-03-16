@@ -1,4 +1,5 @@
 const localImages = require("eleventy-plugin-local-images");
+const CleanCSS = require("clean-css");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(localImages, {
@@ -8,7 +9,10 @@ module.exports = function(eleventyConfig) {
     verbose: false
   });
 
-  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
+  });
+
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("favicon.ico");
