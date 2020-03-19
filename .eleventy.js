@@ -17,6 +17,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   return {
-    passthroughFileCopy: true
+    passthroughFileCopy: true,
+    dir: {
+      input: "src"
+    }
   };
 };
