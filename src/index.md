@@ -1,10 +1,16 @@
 ---
 layout: default.njk
+templateEngineOverride: njk,md
+headshotLink: https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_440/v1586371313/dave_powers_headshot
 ---
 
 # Who am I?!
 
-![Dave Powers wearing a t-shirt](https://avatars1.githubusercontent.com/u/4978418)
+<picture>
+  <source type="image/webp" srcset="{{ headshotLink }}.webp">
+  <source type="image/jpeg" srcset="{{ headshotLink }}.jpg">
+  <img src="{{ headshotLink }}.jpg" alt="Dave Powers wearing a t-shirt">
+</picture>
 
 I'm [@dave_powers](https://twitter.com/dave_powers), a web developer, humor writer, and interrobang advocate. Check out what I'm up to [now](now/).
 
