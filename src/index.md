@@ -9,7 +9,7 @@ headshotLink: https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_440/
 <picture>
   <source type="image/webp" srcset="{{ headshotLink }}.webp">
   <source type="image/jpeg" srcset="{{ headshotLink }}.jpg">
-  <img src="{{ headshotLink }}.jpg" alt="Dave Powers wearing a t-shirt">
+  <img src="data:," alt="Dave Powers wearing a t-shirt">
 </picture>
 
 I'm [@dave_powers](https://twitter.com/dave_powers), a web developer, humor writer, and interrobang advocate. Check out what I'm up to [now](now/).
