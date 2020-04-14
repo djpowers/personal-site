@@ -182,6 +182,11 @@
           "name": "Video Speed Controller",
           "url": "https://github.com/igrigorik/videospeed",
           "description": "Convenient video controls that work on any site."
+        },
+        {
+          "name": "Metastream",
+          "url": "https://getmetastream.com/",
+          "description": "Remote streaming parties for almost any platform."
         }
       ]
     }
