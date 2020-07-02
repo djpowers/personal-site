@@ -17,5 +17,8 @@
     "clean-css": "^4.2.3",
     "eleventy-plugin-local-images": "^0.4.0",
     "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "eleventy-plugin-reading-time": "0.0.1"
   }
 }

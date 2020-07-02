@@ -1,5 +1,6 @@
 const localImages = require("eleventy-plugin-local-images");
 const CleanCSS = require("clean-css");
+const readingTime = require("eleventy-plugin-reading-time");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(localImages, {
@@ -13,6 +14,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
+
+  eleventyConfig.addPlugin(readingTime);
 
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("_redirects");

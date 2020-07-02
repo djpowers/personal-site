@@ -46,6 +46,10 @@ main a {
   color: midnightblue;
 }
 
+main ul li {
+  margin: 16px 0;
+}
+
 img {
   width: 100%;
 }
