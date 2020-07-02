@@ -7,9 +7,9 @@ description: Links to external sites where Dave Powers has been published
 <h1>Writing</h1>
 {% for publication in publications %}
   <h2>{{ publication.name }}</h2>
-  {% for piece in publication.pieces %}
-    <ul>
+  <ul>
+    {% for piece in publication.pieces %}
       <li><a href="{{ piece.url }}">{{ piece.title }}</a>
-    </ul>
-  {% endfor %}
+    {% endfor %}
+  </ul>
 {% endfor %}
