@@ -169,16 +169,6 @@
           "description": "A Firefox exclusive, which I could argue is reason enough to switch. Isolates your browsing so that Facebook can't creepily follow you around the net."
         },
         {
-          "name": "FB Purity",
-          "url": "https://www.fbpurity.com/",
-          "description": "Interface is ugly as sin, but allows you to block the annoying parts of Facebook."
-        },
-        {
-          "name": "Old Reddit Redirect",
-          "url": "https://github.com/tom-james-watson/old-reddit-redirect",
-          "description": "For the rare times I find myself on Reddit, this makes the interface tolerable."
-        },
-        {
           "name": "Video Speed Controller",
           "url": "https://github.com/igrigorik/videospeed",
           "description": "Convenient video controls that work on any site."
