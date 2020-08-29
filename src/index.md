@@ -1,7 +1,7 @@
 ---
 layout: default.njk
 templateEngineOverride: njk,md
-headshotLink: https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_440/v1586371313/dave_powers_headshot
+headshotLink: https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_861/v1586371313/dave_powers_headshot
 ---
 
 # Who am I?!
