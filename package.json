@@ -16,7 +16,7 @@
     "@lhci/cli": "^0.4.4",
     "clean-css": "^4.2.3",
     "eleventy-plugin-local-images": "^0.4.0",
-    "prettier": "^2.1.1"
+    "prettier": "^2.1.2"
   },
   "dependencies": {
     "eleventy-plugin-reading-time": "0.0.1"
