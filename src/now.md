@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2020-10-16T00:00:00-0500
+date: 2020-11-18T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,11 +12,11 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-Just pushed a humor piece I'm proud of over the line, which should likely be published some time in early November.
+Eagerly awaiting the arrival of my new mechanical keyboard, which I expect to yield a thousound-fold increase in my productivity.
 
-I'm also focused on building out this site. I initially wanted to do so from scratch, but realized that is not really practical for modern front-end web development. The [Jamstack](https://jamstack.org/) and [static site generators](https://www.staticgen.com/) have been intriguing to me of late, so I decided to leverage [Eleventy 🎈🐀](https://www.11ty.dev/) for basic templating and build steps. It doesn't add any code to the final output that I didn't write, which was a goal of mine.
+The [Jamstack](https://jamstack.org/) and [static site generators](https://www.staticgen.com/) have been intriguing to me of late, so I decided to leverage [Eleventy 🎈🐀](https://www.11ty.dev/) for this site. It doesn't add any code to the final output that I didn't write, which was a goal of mine.
 
-Leaning into static sites by building out a site for a friend's upcoming podcast using [Gatsby](https://www.gatsbyjs.org/), and assisting another get a blog up and running via [Ghost](https://ghost.org/). Will share more when there's something concrete to share. 📰 🎧
+Leaning into static sites, I also built out a site for a friend's new podcast that automatically builds new pages as new episodes are published, and also adds blogging capabilities: [The Boys Are Back In Time](https://theboysarebackintime.com/).
 
 ## 👟 Running
 
@@ -25,6 +25,8 @@ This is my favorite time of year to run. I also got a few pairs of the same runn
 ## 📺 Watching
 
 Casually have been revisiting _Sister, Sister_, which holds up surprisingly well. I also finally dipped my toes into the _Unsolved Mysteries_ reboot, and it's probably for the best that I hadn't gone down this rabbit hole until now. 🐰🕳
+
+Nim got me hooked on _The Great British Baking Show_, to my surprise. It's just so wholesome and pleasant. Reminder that if you are American, it is incorrect to refer to the program as _The Great British Bake Off_ because Pillsbury owns the rights to the phrase “Bake-Off” in the U.S. so I hope you get sued for any infractions.
 
 ## 📚 Reading
 
