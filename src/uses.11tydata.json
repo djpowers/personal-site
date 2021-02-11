@@ -104,6 +104,11 @@
           "description": "An excellent calendar application."
         },
         {
+          "name": "Hookshot",
+          "url": "https://hookshot.app/",
+          "description": "A decent window management solution has been my white whale. I had tried Spectacle in the past, but almost every keyboard shortcut conflicted. Rectangle (from the Hookshot) dev is the spirtual successor to Spectacle. Hookshot builds on top of it to add really clever snapping mechanism."
+        },
+        {
           "name": "Backblaze",
           "url": "https://secure.backblaze.com/r/00grp4",
           "description": "Off-site backup is a necessity, and Backblaze has saved me a number of times. (Note: referral link)"
