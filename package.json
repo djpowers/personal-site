@@ -13,10 +13,10 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
-    "@lhci/cli": "^0.6.1",
-    "clean-css": "^4.2.3",
+    "@lhci/cli": "^0.7.0",
+    "clean-css": "^5.0.1",
     "eleventy-plugin-local-images": "^0.4.0",
-    "prettier": "^2.2.0"
+    "prettier": "^2.2.1"
   },
   "dependencies": {
     "eleventy-plugin-reading-time": "0.0.1"
