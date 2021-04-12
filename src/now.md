@@ -16,7 +16,7 @@ I have officially received my first dose of the Pfizer COVID-19 vaccine. You can
 
 If you're in Massachusetts and trying to sign up a family member, friend, or yourself, [this guide](https://www.bostonmagazine.com/news/2021/03/24/massachusetts-vaccine-appointment-tips/) was generally helpful. The CVS at midnight approach seemed most effective, if you don't mind putting in the effort.
 
-### DAYS UNTIL DAVE IS CONSIDERED FULLY VACCINATED:
+### 🗓 DAYS UNTIL DAVE IS CONSIDERED FULLY VACCINATED:
 
 {{ helpers.daysUntilVaccinated() }}
 
