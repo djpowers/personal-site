@@ -144,21 +144,6 @@
           "description": "Best ad blocker in the biz."
         },
         {
-          "name": "Privacy Badger",
-          "url": "https://www.eff.org/privacybadger",
-          "description": "Complements a privacy blocklist well by identifying trackers as you browse and denying them."
-        },
-        {
-          "name": "HTTPS Everywhere",
-          "url": "https://www.eff.org/https-everywhere",
-          "description": "Most sites are using HTTPS now, but force it if needed."
-        },
-        {
-          "name": "Decentraleyes",
-          "url": "https://decentraleyes.org/",
-          "description": "Will improve performance by caching CDN data, and preserving privacy whilst doing so. A win-win."
-        },
-        {
           "name": "Wappalyzer",
           "url": "https://www.wappalyzer.com/download",
           "description": "Curiosity gets the best of me while browsing, and this lets me keep my finger on the pulse of what technologies other people are using to build web applications."
@@ -177,11 +162,6 @@
           "name": "Video Speed Controller",
           "url": "https://github.com/igrigorik/videospeed",
           "description": "Convenient video controls that work on any site."
-        },
-        {
-          "name": "Metastream",
-          "url": "https://getmetastream.com/",
-          "description": "Remote streaming parties for almost any platform."
         }
       ]
     }
