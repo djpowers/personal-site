@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2021-04-12T00:00:00-0500
+date: 2021-05-27T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,13 +12,9 @@ templateEngineOverride: njk,md
 
 ## 💉 Vaccination
 
-I have officially received my first dose of the Pfizer COVID-19 vaccine. You can read my quote about it in this [Boston Globe article](https://www.bostonglobe.com/2021/04/06/metro/states-new-covid-19-eligibility-rules-open-flood-gates-people-seek-vaccinations/), if you're so inclined. (Please ignore the judgmental tone, and just get vaccinated as soon as you're eligible.)
+I am now fully vaccinated, courtesy of the Pfizer COVID-19 vaccine. You can read my quote about it in this [Boston Globe article](https://www.bostonglobe.com/2021/04/06/metro/states-new-covid-19-eligibility-rules-open-flood-gates-people-seek-vaccinations/), if you're so inclined. (Please ignore the judgmental tone, and just get vaccinated as soon as you're eligible.)
 
 If you're in Massachusetts and trying to sign up a family member, friend, or yourself, [this guide](https://www.bostonmagazine.com/news/2021/03/24/massachusetts-vaccine-appointment-tips/) was generally helpful. The CVS at midnight approach seemed most effective, if you don't mind putting in the effort.
-
-### 🗓 DAYS UNTIL DAVE IS CONSIDERED FULLY VACCINATED:
-
-{{ helpers.daysUntilVaccinated() }}
 
 ## ✍️ Working
 
