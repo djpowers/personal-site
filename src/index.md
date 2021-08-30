@@ -18,4 +18,4 @@ I like simple, modern, websites. Hopefully this one meets those criteria. If you
 
 Check out some of my [writing](writing/) if you'd like. You may have seen some of my humor published on [McSweeney's](https://www.mcsweeneys.net/authors/dave-powers), [Points in Case](https://www.pointsincase.com/author/dave-powers), or [Slackjaw via Medium](https://medium.com/@dave_powers).
 
-I grew up in the 'burbs of Boston, and bounce around Somerville and Cambridge these days. You may catch me in one of the many squares <del>seeing a show</del>, <Del>grabbing a beer</del>, or [disarming a bank robber](https://www.bostonglobe.com/metro/2019/05/01/man-who-bumped-into-bank-robbery-suspect-says-was-position-react/c7AV2FzhgOBq1iiifW0zpI/story.html).
+I grew up in the 'burbs of Boston, and after a lengthy tenure in the city of Somerville, I've moved across the river to Jamaica Plain. You may catch me in one of the many squares <del>seeing a show</del>, <Del>grabbing a beer</del>, or [disarming a bank robber](https://www.bostonglobe.com/metro/2019/05/01/man-who-bumped-into-bank-robbery-suspect-says-was-position-react/c7AV2FzhgOBq1iiifW0zpI/story.html).
