@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2021-08-30T00:00:00-0500
+date: 2021-11-21T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,19 +12,17 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-Starting a new venture soon, more to follow.
+Lots of stuff in the works. Current focus is upgrading the home office, which has now finally been painted.
 
 Leaning into static sites, I also built out a site for a friend's new podcast that automatically builds new pages as new episodes are published, and also adds blogging capabilities: [The Boys Are Back In Time](https://theboysarebackintime.com/).
 
 ## 👟 Running
 
-I ran my first road race since 2019 recently this summer, a local seasonal series I've participated in several times over the years. Despite the gross humidity I ran a decent time.
+Participating in a local turkey trot 5K this Thanksgiving. Trying a new race to mix things up.
 
 ## 📺 Watching
 
-After hearing nonstop praise, I began _Ted Lasso_ and timed my finish to Season One to coincide with the start of Season Two.
-
-I'm also eagerly awaiting each release of Secret Base's [The History of the Atlanta Falcons](https://www.youtube.com/playlist?list=PLUXSZMIiUfFSzzgEL4N9aYBXPmGVen3zW). (Trust me on this one, even if you have no affiliation with Atlanta, the Falcons, or even football in general.)
+Finished watching _Squid Game_, which overall was great. Recommended if you like your entertainment to cause extreme anxiety. Have also been watching the latest season of _The Great British Baking Show_ as a palette cleanser.
 
 ## 📚 Reading
 
