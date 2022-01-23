@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2022-01-02T00:00:00-0500
+date: 2022-01-23T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -18,11 +18,13 @@ Leaning into static sites, I also built out a site for a friend's new podcast th
 
 ## 👟 Running
 
-Switched it up and trying some zero-drop sneakers from Altra.
+Switched it up and trying some zero-drop sneakers from Altra. Tried them before in a short-lived experiment, but liking them the second go-around.
 
 ## 📺 Watching
 
 Revisited _Futurama_, and realized I had never seen the latter half of episodes. Also working through the new season of _How To with John Wilson_, which features the best combination of humor and poignancy.
+
+Also have finally started _Mr. Robot_, which was previously on my "shows I know I will like but have not yet watched for some reason" list.
 
 ## 📚 Reading
 
