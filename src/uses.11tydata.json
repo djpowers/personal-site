@@ -64,9 +64,9 @@
           "description": "For a project with a back-end where I don't want to worry about server infrastructure Heroku is perfect."
         },
         {
-          "name": "Namecheap",
-          "url": "https://www.namecheap.com/",
-          "description": "When buying domain names, I've gone with Namecheap. Some of the cheapest prices around, but from a reputable company."
+          "name": "Porkbun",
+          "url": "https://porkbun.com/",
+          "description": "Good prices and service, combined with an adorable name and mascot."
         }
       ]
     },
@@ -142,6 +142,11 @@
           "name": "uBlock Origin",
           "url": "https://getublock.com/",
           "description": "Best ad blocker in the biz."
+        },
+        {
+          "name": "Bypass Paywalls",
+          "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+          "description": "Convenient for when you come across a blocked piece on a random site."
         },
         {
           "name": "Wappalyzer",
