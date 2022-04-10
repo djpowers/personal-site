@@ -14,9 +14,9 @@
           "description": "My preferred terminal emulator."
         },
         {
-          "name": "Cobalt2 theme",
-          "url": "https://github.com/wesbos/Cobalt2-iterm",
-          "description": "My favorite color scheme. 💙💛"
+          "name": "Nord Theme",
+          "url": "https://www.nordtheme.com/",
+          "description": "Love that deep blue. 🧊 Also available for tons of platforms as a nice bonus."
         },
         {
           "name": "JetBrains Mono font",
@@ -84,9 +84,9 @@
           "description": "The best to-do app I've used, hands down. Beautiful design and tons of attention has been given to each feature."
         },
         {
-          "name": "Alfred",
-          "url": "https://www.alfredapp.com/",
-          "description": "I use Alfred for every web search, as a quick dictionary, and to control Spotify. Super versatile and extensible."
+          "name": "Raycast",
+          "url": "https://www.raycast.com/",
+          "description": "I've used Alfred for over a decade, but have just begun trying out Raycast. The ease of adding extensions is a huge plus for me. Still evaluating if this will be a permanent switch."
         },
         {
           "name": "1Password",
@@ -94,9 +94,9 @@
           "description": "Been using this password manager forever. If not this one, please find one you like."
         },
         {
-          "name": "Mailplane",
-          "url": "https://mailplaneapp.com/",
-          "description": "A native application wrapper around the Gmail interface."
+          "name": "Mimestream",
+          "url": "https://mimestream.com/",
+          "description": "Was using Mailplane for years, but that is no longer being updated. Mimestream is in beta now but so far seems like the best native Mac app for Gmail."
         },
         {
           "name": "Fantastical",
@@ -104,9 +104,9 @@
           "description": "An excellent calendar application."
         },
         {
-          "name": "Hookshot",
-          "url": "https://hookshot.app/",
-          "description": "A decent window management solution has been my white whale. I had tried Spectacle in the past, but almost every keyboard shortcut conflicted. Rectangle (from the Hookshot) dev is the spiritual successor to Spectacle. Hookshot builds on top of it to add really clever snapping mechanism."
+          "name": "Rectangle Pro",
+          "url": "https://rectangleapp.com/pro",
+          "description": "I had tried Spectacle in the past, but almost every keyboard shortcut conflicted. Rectangle Pro builds on top of it to add really clever snapping mechanism (though I miss the original Hookshot branding)."
         },
         {
           "name": "Backblaze",
