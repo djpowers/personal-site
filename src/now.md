@@ -12,7 +12,7 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-Currently mulling around another side project in my head, which comes at a good time because the domain name for a previous idea I made little progress on is about to expire.
+If you're interested in open source software development, check out [Upstream](https://upstream.live/register?code=dp22), a virtual conference being put on by my company celebrating open source developers and maintainers.
 
 Leaning into static sites, I also built out a site for a friend's new podcast that automatically builds new pages as new episodes are published, and also adds blogging capabilities: [The Boys Are Back In Time](https://theboysarebackintime.com/).
 
@@ -22,9 +22,7 @@ Just ran my first twilight 5K race since... possibly ever? Also was a fundraiser
 
 ## 📺 Watching
 
-Started _The Dropout_ on Hulu which is great so far, with a surprisingly good soundtrack to boot.
-
-Also have finally started _Mr. Robot_, which was previously on my "shows I know I will like but have not yet watched for some reason" list.
+Started _Severance_ after many recommendations, and it seems very much up my alley. And of course, watching the final season of Better Call Saul, a show which is arguably better than Breaking Bad.
 
 ## 📚 Reading
 

@@ -86,7 +86,7 @@
         {
           "name": "Raycast",
           "url": "https://www.raycast.com/",
-          "description": "I've used Alfred for over a decade, but have just begun trying out Raycast. The ease of adding extensions is a huge plus for me. Still evaluating if this will be a permanent switch."
+          "description": "I've used Alfred for over a decade, but have just begun trying out Raycast. The ease of adding extensions is a huge plus for me. Has already replaced a couple other utlity apps for me."
         },
         {
           "name": "1Password",
@@ -102,11 +102,6 @@
           "name": "Fantastical",
           "url": "https://flexibits.com/fantastical",
           "description": "An excellent calendar application."
-        },
-        {
-          "name": "Rectangle Pro",
-          "url": "https://rectangleapp.com/pro",
-          "description": "I had tried Spectacle in the past, but almost every keyboard shortcut conflicted. Rectangle Pro builds on top of it to add really clever snapping mechanism (though I miss the original Hookshot branding)."
         },
         {
           "name": "Backblaze",
