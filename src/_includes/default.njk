@@ -1,6 +1,6 @@
 ---
 title: Dave Powers
-description: Personal site of Dave Powers, a web developer and humor writer based out of Somerville, MA.
+description: Personal site of Dave Powers, a web developer and humor writer based out of Boston, MA.
 ---
 
 <!doctype html>
@@ -14,6 +14,7 @@ description: Personal site of Dave Powers, a web developer and humor writer base
     {% if noindex %}
       <meta name="robots" content="noindex">
     {% endif %}
+    <meta name="generator" content="{{ eleventy.generator }}">
 
     {# capture the CSS content as a Nunjucks variable #}
     {% set css %}
