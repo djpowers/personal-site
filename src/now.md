@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2022-04-10T00:00:00-0500
+date: 2022-09-10T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,21 +12,19 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-If you're interested in open source software development, check out [Upstream](https://upstream.live/register?code=dp22), a virtual conference being put on by my company celebrating open source developers and maintainers.
-
-Leaning into static sites, I also built out a site for a friend's new podcast that automatically builds new pages as new episodes are published, and also adds blogging capabilities: [The Boys Are Back In Time](https://theboysarebackintime.com/).
+Recently made the jump from Vim to Neovim and doing a lot of configuration tweaking. Also trying to revise and polish up some humor drafts I've been sitting on for a while.
 
 ## 👟 Running
 
-Just ran my first twilight 5K race since... possibly ever? Also was a fundraiser not put on by a for-profit events company, which was a refreshing change of pace.
+Enjoying the beginning of the best running season, and trying to queue up a few races through the end of the year.
 
 ## 📺 Watching
 
-Started _Severance_ after many recommendations, and it seems very much up my alley. And of course, watching the final season of Better Call Saul, a show which is arguably better than Breaking Bad.
+Working my way through _The Bear_, which is great. Excellent soundtrack as well. Also slowly making it through _Never Have I Ever_ from Mindy Kaling.
 
 ## 📚 Reading
 
-Just cracked open _How to Write One Song_ by Jeff Tweedy. Upon completion I will be penning my non-fiction debut, _How to Read One Book_. Slowing making progress on _Your Computer is on Fire_ as well.
+Just cracked open _How to Write One Song_ by Jeff Tweedy. Upon completion I will be penning my non-fiction debut, _How to Read One Book_. Also picked up Bob Odenkirk's _Comedy Comedy Comedy Drama_ which I need to get started on.
 
 ---
 
