@@ -139,6 +139,11 @@
           "description": "Best ad blocker in the biz."
         },
         {
+          "name": "Consent-O-Matic",
+          "url": "https://consentomatic.au.dk/",
+          "description": "Automatically handle cookie pop-ups, rejecting them by default."
+        },
+        {
           "name": "Bypass Paywalls",
           "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
           "description": "Convenient for when you come across a blocked piece on a random site."
