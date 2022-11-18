@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2022-09-10T00:00:00-0500
+date: 2022-11-18T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,15 +12,15 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-Recently made the jump from Vim to Neovim and doing a lot of configuration tweaking. Also trying to revise and polish up some humor drafts I've been sitting on for a while.
+Just returned from [RubyConf Mini](https://www.rubyconfmini.com/), which was a great conference. A couple humor pieces of mine have also just been published.
 
 ## 👟 Running
 
-Enjoying the beginning of the best running season, and trying to queue up a few races through the end of the year.
+Have gotten in a good amount of weekend long runs, and getting ready for a Thanksgiving day race.
 
 ## 📺 Watching
 
-Working my way through _The Bear_, which is great. Excellent soundtrack as well. Also slowly making it through _Never Have I Ever_ from Mindy Kaling.
+Nothing queued up at the moment!
 
 ## 📚 Reading
 
