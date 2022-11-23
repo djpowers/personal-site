@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2022-11-18T00:00:00-0500
+date: 2022-11-22T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -20,7 +20,7 @@ Have gotten in a good amount of weekend long runs, and getting ready for a Thank
 
 ## 📺 Watching
 
-Nothing queued up at the moment!
+Slowing working through the latest season of _Unsolved Mysteries_ (need a bit of time to regroup after each episode).
 
 ## 📚 Reading
 
