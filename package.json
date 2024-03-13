@@ -12,11 +12,11 @@
   "repository": "github:djpowers/personal-site",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-beta.1",
-    "@lhci/cli": "^0.10.0",
+    "@11ty/eleventy": "^2.0.0",
+    "@lhci/cli": "^0.13.0",
     "clean-css": "^5.0.1",
     "eleventy-plugin-local-images": "^0.4.0",
-    "prettier": "^2.2.1"
+    "prettier": "^3.2.5"
   },
   "dependencies": {
     "eleventy-plugin-reading-time": "0.0.1"
