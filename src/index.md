@@ -1,15 +1,14 @@
 ---
 layout: default.njk
 templateEngineOverride: njk,md
-headshotLink: https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_861/v1586371313/dave_powers_headshot
 ---
 
 # Who am I?!
 
 <picture>
-  <source type="image/webp" srcset="{{ headshotLink }}.webp">
-  <source type="image/jpeg" srcset="{{ headshotLink }}.jpg">
-  <img src="data:," alt="Dave Powers wearing a t-shirt">
+  <source srcset="..{{headshot.webp[0].url}}" type="image/webp">
+  <source srcset="..{{headshot.jpeg[0].url}}" type="image/jpeg">
+  <img src="..{{headshot.jpeg[0].url}}" alt="Headshot of Dave Powers wearing a purple t-shirt with urban green space in the background.">
 </picture>
 
 I'm Dave Powers ([Twitter](https://twitter.com/dave_powers), <a rel="me" href="https://mastodon.social/@davepowers">Mastodon</a>), a web developer, humor writer, and interrobang advocate. Check out what I'm up to [now](now/).
