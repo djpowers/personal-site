@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2023-09-07T00:00:00-0500
+date: 2024-03-13T00:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,17 +12,15 @@ templateEngineOverride: njk,md
 
 ## ✍️ Working
 
-<mark>I'm currently looking for full-time work!</mark> Seeking a role as a Senior Software Engineer doing full-stack web development. My preferred technologies are Ruby on Rails and React, but I'm open to learning the right tool for the job. Please [get in touch](/contact) if you're hiring!
+Happy to report that I am starting a new full-time role soon!
 
 ## 👟 Running
 
-Over the summer I finally invested in a Garmin watch (Forerunner model) and while not perfect, it's definitely upgraded my training. Currently gearing up for my first half marathon in a few years this fall.
+Recently got into the happy of joining my local parkrun when I can. Mostly filled up the race calendar for the year.
 
 ## 📺 Watching
 
-Most recently finished watching _Beef_, which was an incredible ride. Hoping this season exists as a standalone story, although I could see the show working as an anthology series.
-
-Next on the list are the second seasons of _The Bear_ and _White Lotus_ (admittedly lagging, no spoilers please!).
+Never actually watched season one of _True Detective_, and have since corrected that.
 
 ## 📚 Reading
 
