@@ -6,8 +6,6 @@ layout: default.njk
 <time itemprop="datePublished" datetime="{{ date }}">
   {{ page.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric"}) }}
 </time>
-&middot;
-<span>{{ content | readingTime }} reading time</span>
 
 <article>
   {{ content | safe }}
