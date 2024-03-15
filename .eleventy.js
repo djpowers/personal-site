@@ -1,6 +1,5 @@
 const Image = require("@11ty/eleventy-img");
 const CleanCSS = require("clean-css");
-const readingTime = require("eleventy-plugin-reading-time");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(Image.eleventyImageTransformPlugin, {
@@ -35,8 +34,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
-
-  eleventyConfig.addPlugin(readingTime);
 
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("_redirects");
