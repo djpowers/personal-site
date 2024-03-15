@@ -43,7 +43,7 @@ nav ul li a:hover {
 }
 
 main {
-  max-width: 28rem;
+  max-width: 40rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -56,9 +56,16 @@ main ul li {
   margin: 16px 0;
 }
 
+picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 img {
   height: 100%;
   width: 100%;
+  max-width: 28rem;
 }
 
 form {
