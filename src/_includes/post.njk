@@ -3,7 +3,7 @@ layout: default.njk
 ---
 
 <h1>{{ title }}</h1>
-<time itemprop="datePublished" datetime="{{ date }}">
+<time itemprop="datePublished" datetime="{{ date.toUTCString() }}">
   {{ page.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric"}) }}
 </time>
 
