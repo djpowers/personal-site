@@ -1,6 +1,6 @@
 ---
 title: Optimal blog URL structure
-date: 2024-05-14T03:00:00Z
+date: 2024-05-13T23:00:00Z
 ---
 I've been kicking around the idea of setting up some way of sharing my various musings here, but have procastinated due to various reasons. One was making sure the inaugural post was "worthwhile," and another my insistence to labor over exactly what pathing structure to use for the site. After all, [cool URI's don't change](https://www.w3.org/Provider/Style/URI).
 
