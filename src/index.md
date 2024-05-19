@@ -6,9 +6,7 @@ templateEngineOverride: njk,md
 # Who am I?
 
 <picture>
-  <source srcset="..{{headshot.webp[0].url}}" type="image/webp">
-  <source srcset="..{{headshot.jpeg[0].url}}" type="image/jpeg">
-  <img src="..{{headshot.jpeg[0].url}}" loading="eager" alt="Headshot of Dave Powers wearing a purple t-shirt with urban green space in the background.">
+  <img src="https://avatars.githubusercontent.com/u/4978418" loading="eager" alt="Headshot of Dave Powers wearing a purple t-shirt with urban green space in the background.">
 </picture>
 
 I'm Dave Powers ([~~Twitter~~](https://twitter.com/dave_powers), <a rel="me" href="https://mastodon.social/@davepowers">Mastodon</a>), a web developer, humor writer, and maybe a third thing. Check out what I'm up to [now](now/).

@@ -22,15 +22,6 @@ module.exports = function (eleventyConfig) {
     },
   });
 
-  eleventyConfig.addGlobalData("headshot", async () => {
-    let url =
-      "https://res.cloudinary.com/dave-powers/image/upload/c_scale,w_861/v1586371313/dave_powers_headshot";
-    let stats = await Image(url, {
-      widths: [448],
-    });
-    return stats;
-  });
-
   eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
