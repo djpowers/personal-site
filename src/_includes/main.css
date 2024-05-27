@@ -7,8 +7,9 @@ body {
     Helvetica,
     Arial,
     sans-serif;
-  color: #3d4852;
+  color: #ebebd3;
   margin: 0;
+  background: #0a2342;
 }
 
 nav {
@@ -16,7 +17,16 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 1rem 0;
-  background-color: midnightblue;
+  background: #354b6d;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #b4a0e5;
 }
 
 nav ul {
@@ -39,7 +49,7 @@ nav a {
 }
 
 nav ul li a:hover {
-  background-color: navy;
+  background-color: #0a2342;
 }
 
 main {
@@ -49,7 +59,7 @@ main {
 }
 
 main a {
-  color: midnightblue;
+  color: #ff88b3;
 }
 
 main ul li {
