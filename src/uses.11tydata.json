@@ -4,9 +4,9 @@
       "category": "Development",
       "items": [
         {
-          "name": "Vim",
-          "url": "https://www.vim.org/",
-          "description": "As a keyboard junkie, Vim suits my needs very well. After dipping my toes in with \"Vim-Mode\" in other editors, I finally made the jump years ago and haven't looked back."
+          "name": "Helix",
+          "url": "https://helix-editor.com/",
+          "description": "I'd migrated from Vim to Neovim, and now have been primarily using Helix for over a year. The ease of setup is a huge plus. Still some qualms, but positives outweigh the negatives."
         },
         {
           "name": "iTerm2",
@@ -21,7 +21,7 @@
         {
           "name": "JetBrains Mono font",
           "url": "https://www.jetbrains.com/lp/mono/",
-          "description": "Recent addition, but into it so far. Bonus points for being free and open source."
+          "description": "Free and open source, with suggested settings. Works for me."
         },
         {
           "name": "my dotfiles",
@@ -59,11 +59,6 @@
           "description": "For static sites (like this one), Netlify is great. Rock solid deployment process, and they do a lot for the community as well."
         },
         {
-          "name": "Heroku",
-          "url": "https://www.heroku.com/",
-          "description": "For a project with a back-end where I don't want to worry about server infrastructure Heroku is perfect."
-        },
-        {
           "name": "Porkbun",
           "url": "https://porkbun.com/",
           "description": "Good prices and service, combined with an adorable name and mascot."
@@ -86,7 +81,7 @@
         {
           "name": "Raycast",
           "url": "https://www.raycast.com/",
-          "description": "I've used Alfred for over a decade, but have just begun trying out Raycast. The ease of adding extensions is a huge plus for me. Has already replaced a couple other utlity apps for me."
+          "description": "Best app launcher available. Extensions ecosystem is incredible. Some annoyances, but happy a couple years after migrating from Alfred."
         },
         {
           "name": "1Password",
@@ -96,7 +91,7 @@
         {
           "name": "Mimestream",
           "url": "https://mimestream.com/",
-          "description": "Was using Mailplane for years, but that is no longer being updated. Mimestream is in beta now but so far seems like the best native Mac app for Gmail."
+          "description": "Subscribed with the one-year promo for beta testers, and didn't see a better native Gmail app option so planning to stick with."
         },
         {
           "name": "Fantastical",
@@ -144,11 +139,6 @@
           "description": "Automatically handle cookie pop-ups, rejecting them by default."
         },
         {
-          "name": "Bypass Paywalls",
-          "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
-          "description": "Convenient for when you come across a blocked piece on a random site."
-        },
-        {
           "name": "Wappalyzer",
           "url": "https://www.wappalyzer.com/download",
           "description": "Curiosity gets the best of me while browsing, and this lets me keep my finger on the pulse of what technologies other people are using to build web applications."
@@ -162,11 +152,6 @@
           "name": "Facebook Container",
           "url": "https://blog.mozilla.org/firefox/facebook-container-extension/",
           "description": "A Firefox exclusive, which I could argue is reason enough to switch. Isolates your browsing so that Facebook can't creepily follow you around the net."
-        },
-        {
-          "name": "Video Speed Controller",
-          "url": "https://github.com/igrigorik/videospeed",
-          "description": "Convenient video controls that work on any site."
         }
       ]
     }
