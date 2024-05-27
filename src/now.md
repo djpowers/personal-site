@@ -8,7 +8,7 @@ templateEngineOverride: njk,md
 
 # Now
 
-(This is a [now page](https://nownownow.com/about). Feel free to [make your own](https://nownownow.com/about)).
+(This is a [now page](https://nownownow.com/about). Feel free to make your own!)
 
 ## ✍️ Working
 
