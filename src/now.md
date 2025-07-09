@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2024-02-25T20:00:00-0500
+date: 2025-02-25T20:00:00-0500
 templateEngineOverride: njk,md
 ---
 
