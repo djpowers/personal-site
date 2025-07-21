@@ -9,7 +9,7 @@ templateEngineOverride: njk,md
   <img src="https://avatars.githubusercontent.com/u/4978418" loading="eager" alt="Headshot of Dave Powers wearing a purple t-shirt with urban green space in the background.">
 </picture>
 
-I'm Dave Powers ([~~Twitter~~](https://twitter.com/dave_powers), <a rel="me" href="https://mastodon.social/@davepowers">Mastodon</a>), a web developer, humor writer, and maybe a third thing. Check out what I'm up to [now](now/).
+I'm Dave Powers ([Bluesky](https://bsky.app/profile/davepowers.bsky.social), <a rel="me" href="https://mastodon.social/@davepowers">Mastodon</a>), a web developer, humor writer, and maybe a third thing. Check out what I'm up to [now](now/).
 
 I like simple, modern, websites. Hopefully this one meets those criteria. If you're curious, here's some of what I [use](uses/) to make things.
 
