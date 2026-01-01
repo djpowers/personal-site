@@ -1,0 +1,74 @@
+---
+title: Default Apps 2025
+date: 2025-12-31T23:00:00Z
+---
+Long overdue on this trend, but wanted to share my own [App Deaults](https://defaults.rknight.me/) post (which I believe I first saw [shared by Robb Knight](https://rknight.me/blog/app-defaults/)).
+
+- 📨 Mail Client
+  - [Mimestream](https://mimestream.com/) (desktop); [Spark](https://sparkmailapp.com/) (mobile)
+- 📮 Mail Server
+  - Gmail
+- 📝 Notes
+  - [Ulysses](https://ulysses.app/)
+- ✅ To-Do
+  - [Things](https://culturedcode.com/things/)
+- 📷 iPhone Photo Shooting
+  - Camera
+- 🟦 Photo Management
+  - Photos
+- 📆 Calendar
+  - [Fantastical](https://flexibits.com/fantastical)
+- 📁 Cloud File Storage
+  - iCloud Drive
+- 📖 RSS
+  - [NetNewsWire](https://netnewswire.com/)
+- 🙍🏻‍♂️ Contacts
+  - Contacts
+- 🌐 Browser
+  - [Firefox Developer Edition](https://www.firefox.com/en-US/channel/desktop/developer/)
+- 💬 Chat
+  - Messages
+- 🔖 Bookmarks
+  - [Anybox](https://anybox.app/)
+- 📑 Read It Later
+  - [Instapaper](https://instapaper.com/)
+- 📜 Word Processing
+  - [Ulysses](https://ulysses.app/)
+- 📈 Spreadsheets
+  - Numbers
+- 📊 Presentations
+  - Keynote
+- 🛒 Shopping Lists
+  - Reminders
+- 🍴 Meal Planning
+  - [Mela](https://mela.recipes/)
+- 💰 Budgeting and Personal Finance
+  - [Monarch](https://www.monarch.com/)
+- 📰 News
+  - _various_
+- 🎵 Music
+  - Spotify
+- 🎤 Podcasts
+  - [Overcast](https://overcast.fm/)
+- 🔐 Password Management
+  - 1Password
+
+## Bonus Categories
+- 🚀 Launcher
+  - [Raycast](https://www.raycast.com/)
+- 🖼️ Screenshots
+  - [CleanShot X](https://cleanshot.com/)
+- 🧮 Code Editor
+  - [Helix](https://helix-editor.com/)
+- 💻 Terminal
+  - [Ghostty](https://ghostty.org/)
+- 🔎 Search
+  - [Kagi](https://kagi.com/)
+- ✈️ Flight tracking
+  - [Flighty](https://flighty.com/)
+- 📦 Package tracking
+  - [Parcel](https://parcel.app/)
+- 🗃️ Databases
+  - [TablePlus](https://tableplus.com/)
+- 🌤️ Weather
+  - [Mercury Weather](https://mercuryweather.app/)
