@@ -9,9 +9,9 @@
           "description": "I'd migrated from Vim to Neovim, and now have been primarily using Helix for over a year. The ease of setup is a huge plus. Still some qualms, but positives outweigh the negatives."
         },
         {
-          "name": "iTerm2",
-          "url": "https://iterm2.com/",
-          "description": "My preferred terminal emulator."
+          "name": "Ghostty",
+          "url": "https://ghostty.org/",
+          "description": "Light and native terminal emulator."
         },
         {
           "name": "Nord Theme",
@@ -51,7 +51,7 @@
         {
           "name": "Digital Ocean",
           "url": "https://m.do.co/c/53fdcc742fa0",
-          "description": "New to the platform, but their Droplet system makes getting started much easier (or just possible in the first place). (Note: referral link)"
+          "description": "Droplet system makes getting started much easier (or just possible in the first place). (Note: referral link)"
         },
         {
           "name": "Netlify",
