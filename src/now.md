@@ -2,7 +2,7 @@
 layout: default.njk
 title: Now | Dave Powers
 description: A brief summary of what Dave Powers is up to right now
-date: 2025-07-09T10:00:00-0500
+date: 2026-01-01T21:00:00-0500
 templateEngineOverride: njk,md
 ---
 
@@ -12,26 +12,23 @@ templateEngineOverride: njk,md
 
 ## 👋 Personal
 
-Getting married next month!
+Got married in 2025, and subsequently traveled to the UK and Europe. Caught the [Edinburgh Festival Fringe](https://www.edfringe.com/), which was a real treat. Still honing my travel gear and over-optimizing my credit card setup.
 
 ## ✍️ Working
 
-I built out the website for my upcoming wedding, and would not necessarily recommend doing so! It was nice to have full control and implement my own RSVP system, but definitely took a lot of time. Some of the styling left a little bit to be desired as other priorities came up, but It Worked™.
-
-Very happy to soft share that I have accepted a role with the MBTA as a Senior Software Engineer and will be starting very shortly! Looking forward to serving riders and diving into new technologies (namely, Elixir and Phoenix).
-
+Happily working as a Software Engineer with in the MBTA Technology Innovation Department! Still learning a bunch and getting acquainted with Elixir and Phoenix.
 
 ## 👟 Running
 
-This year I didn't fill up the calendar with races, and have been using the flexibility to explore different areas during longer runs. Until recently I had inexplicably never been on the [Lower Neponset River Trail](https://www.mass.gov/locations/lower-neponset-river-trail).
+Recently did a fun holiday-themed 5K race. No races planned as of now, but hoping to continue doing parkrun events, completing more courses and challenges.
 
 ## 📺 Watching
 
-I was turned on to _Taskmaster_ by numerous sources, and started Series 19 on a bit of a whim. Such a delightful and silly and wholesome show. The allure of Jason Mantzoukas may have drawn me in, but I grew to love the entire cast.
+Thrilled to have a new Vince Gilligan show to watch in _Pluribus_. Just about wrapped up, and appreciating the companion podcast as well.
 
 ## 📚 Reading
 
-Focusing on brushing up on some technical topics and books for now.
+Focusing on brushing up on some technical topics and books for now. Happy to see Kobo support Instapaper now to easily save longreads to my device.
 
 ---
 

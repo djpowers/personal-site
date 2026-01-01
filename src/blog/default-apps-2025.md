@@ -2,7 +2,7 @@
 title: Default Apps 2025
 date: 2025-12-31T23:00:00Z
 ---
-Long overdue on this trend, but wanted to share my own [App Deaults](https://defaults.rknight.me/) post (which I believe I first saw [shared by Robb Knight](https://rknight.me/blog/app-defaults/)).
+Long overdue on this trend, but wanted to share my own [App Defaults](https://defaults.rknight.me/) post (which I believe I first saw [shared by Robb Knight](https://rknight.me/blog/app-defaults/)).
 
 - 📨 Mail Client
   - [Mimestream](https://mimestream.com/) (desktop); [Spark](https://sparkmailapp.com/) (mobile)
